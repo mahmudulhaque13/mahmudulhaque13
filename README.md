@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="./banner.jpg" alt="Mahmudul Haque — Full-Stack JavaScript Developer" width="100%" />
+</p>
+
+---
+
 # Hi, I'm Mahmudul Haque 👋
 
 ### Full-Stack JavaScript Developer
